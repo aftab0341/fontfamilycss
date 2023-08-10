@@ -1,0 +1,69 @@
+.one{
+    text-align: center;
+    font-size: 30px;
+    background-color: aquamarine;
+    font-family: font-family: 'Lobster', cursive;;
+}
+
+.two{
+    text-align: center;
+    font-size: 40px;
+    background-color: rgb(68, 30, 238);
+    font-family: 'Rubik Wet Paint', cursive;;
+}
+
+.three{
+    text-align: center;
+    font-size: 50px;
+    background-color: rgb(228, 26, 26);
+    font-family: font-family: 'Lobster', cursive;
+}
+
+.four{
+    text-align: center;
+    font-size: 60px;
+    background-color: rgb(240, 185, 6);
+   font-family: 'Rubik Wet Paint', cursive;
+}
+
+.five{
+    text-align: center;
+    font-size: 70px;
+    background-color: rgb(6, 240, 201);
+    font-family: 'Roboto', sans-serif;
+}
+
+.six{
+    text-align: center;
+    font-size: 80px;
+    background-color: rgb(6, 240, 201);
+    font-family: 'Permanent Marker', cursive;
+}
+
+.seven{
+    text-align: center;
+    font-size: 90px;
+    background-color: rgb(197, 145, 221);
+    font-family: 'Moon Dance', cursive;
+}
+
+.eight{
+    text-align: center;
+    font-size: 100px;
+    background-color: rgb(220, 231, 62);
+    font-family: 'Updock', cursive;
+}
+
+.nine{
+    text-align: center;
+    font-size: 110px;
+    background-color: rgb(189, 186, 12);
+    font-family: 'Faster One', cursive;
+}
+
+.ten{
+    text-align: center;
+    font-size: 120px;
+    background-color: rgb(189, 12, 27);
+    font-family: 'Monofett', monospace;
+}
